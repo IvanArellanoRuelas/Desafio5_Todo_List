@@ -1,0 +1,23 @@
+body {
+  background-color: #efefef;
+}
+
+h1 {
+  border-bottom: 1px solid;
+}
+
+#btn_Agregar {
+  width: 15%;
+  background-color: green;
+  color: white;
+}
+
+#display {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#NuevaTarea {
+  width: 80%;
+}
